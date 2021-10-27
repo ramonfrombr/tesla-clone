@@ -9,6 +9,7 @@ function Inicio() {
 		<Container>
 			<Secao
 				titulo="Model S"
+				id="model-s"
 				descricao="Order Online for Touchless Delivery"
 				imagem="model-s.jpg"
 				textoBotaoEsquerda="Custom order"
@@ -16,6 +17,7 @@ function Inicio() {
 			/>
 			<Secao
 				titulo="Model Y"
+				id="model-y"
 				descricao="Order Online for Touchless Delivery"
 				imagem="model-y.jpg"
 				textoBotaoEsquerda="Custom order"
@@ -23,6 +25,7 @@ function Inicio() {
 			/>
 			<Secao
 				titulo="Model 3"
+				id="model-3"
 				descricao="Order Online for Touchless Delivery"
 				imagem="model-3.jpg"
 				textoBotaoEsquerda="Custom order"
@@ -30,6 +33,7 @@ function Inicio() {
 			/>
 			<Secao
 				titulo="Model X"
+				id="model-x"
 				descricao="Order Online for Touchless Delivery"
 				imagem="model-x.jpg"
 				textoBotaoEsquerda="Custom order"

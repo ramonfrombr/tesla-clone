@@ -14,13 +14,14 @@ import Fade from "react-reveal/Fade";
 
 const Secao = ({
 	titulo,
+	id,
 	descricao,
 	imagem,
 	textoBotaoEsquerda,
 	textoBotaoDireita,
 }) => {
 	return (
-		<Container imagem={imagem}>
+		<Container id={id} imagem={imagem}>
 			<Fade bottom>
 				<ItemTexto>
 					<h1>{titulo}</h1>
