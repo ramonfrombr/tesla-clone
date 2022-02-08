@@ -19,8 +19,6 @@ function Navbar() {
 
 	const carros = useSelector(selecionarCarros);
 
-	console.log(carros);
-
 	const botaoClicado = () => {
 		definirMenuAberto(!menuAberto);
 	};
